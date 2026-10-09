@@ -1,6 +1,6 @@
 # Sauce Demo – Enterprise Test Automation Framework
 
-End-to-end UI test automation for [Sauce Demo](https://www.saucedemo.com/), built with **Playwright** and **TypeScript**, with **Cucumber (BDD)** and **GitHub Actions CI** as the target architecture.
+End-to-end UI test automation for [Sauce Demo](https://www.saucedemo.com/), built with **Playwright** and **Javascript**, with **Cucumber (BDD)** and **GitHub Actions CI** as the target architecture.
 
 The framework is designed as an enterprise-style reference: layered, maintainable, environment-driven, and CI-first.
 
