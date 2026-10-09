@@ -10,7 +10,7 @@ The framework is designed as an enterprise-style reference: layered, maintainabl
 
 | Area | Status |
 |---|---|
-| Playwright + TypeScript setup | In place |
+| Playwright + Javascript setup | In place |
 | Page Object Model | In progress |
 | Cucumber (BDD) integration | Planned |
 | GitHub Actions CI | Planned |
